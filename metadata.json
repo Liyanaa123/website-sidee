@@ -1,0 +1,6 @@
+{
+  "name": "Sidee",
+  "description": "Platform pencarian kerja part-time fleksibel, terpercaya, dan aman untuk mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
